@@ -1,4 +1,4 @@
-# cloudbuild.yaml ----
+# cloudbuild.yaml ------
 
 steps:
   - id: 'terraform init'
